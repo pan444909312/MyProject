@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.company.test1.FlyAndSail"/>
+<fullyQualifiedTypeName name="com.company.test1.StringMethod"/>
+<fullyQualifiedTypeName name="com.company.arrays.ArraysTest"/>
+<fullyQualifiedTypeName name="com.company.sort.TestSort"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="com.company.wrappe.TestWrappeClass"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="com.game.GameFrame"/>
+<fullyQualifiedTypeName name="java.awt.event.WindowAdapter"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="com.game.GameFrame.PaintThread"/>
+<fullyQualifiedTypeName name="java.awt.Graphics"/>
+<fullyQualifiedTypeName name="java.awt.Image"/>
+<fullyQualifiedTypeName name="com.game.GameUtil"/>
+<fullyQualifiedTypeName name="com.game.GameFrame.KeyMonitor"/>
+<fullyQualifiedTypeName name="java.awt.event.KeyAdapter"/>
+<fullyQualifiedTypeName name="java.awt.event.KeyEvent"/>
+<fullyQualifiedTypeName name="com.game.SnakeTail"/>
+<fullyQualifiedTypeName name="com.game.Constants"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+<fullyQualifiedTypeName name="com.five.Artist"/>
+<fullyQualifiedTypeName name="com.five.Sing"/>
+<fullyQualifiedTypeName name="com.five.Moive"/>
+<fullyQualifiedTypeName name="com.five.TVPlay"/>
+</qualifiedTypeNameHistroy>

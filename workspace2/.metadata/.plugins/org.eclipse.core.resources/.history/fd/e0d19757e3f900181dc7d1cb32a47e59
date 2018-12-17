@@ -1,0 +1,11 @@
+package com.file;
+
+import java.io.File;
+
+public class FileTest {
+	public static void main(String[] args) {
+//		System.out.println(System.getProperty("user.dir"));
+		File f1 = new File("ÊÇ.txt");
+		f1.createNewFile();
+	}
+}

@@ -1,0 +1,16 @@
+package com.five;
+
+public class Ability {
+
+}
+interface Moive{
+	void playMoive(){
+		System.out.println();
+	}
+}
+interface Sing{
+	
+}
+interface TVPlay{
+	
+}

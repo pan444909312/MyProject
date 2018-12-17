@@ -1,0 +1,45 @@
+package com.five;
+
+public class Artist implements Sing,Moive,TVPlay{
+	private String name;
+
+	
+	public Artist() {
+		super();
+	}
+
+
+	public Artist(String name) {
+		super();
+		this.name = name;
+	}
+
+
+
+	@Override
+	public void actorTV() {
+		// TODO Auto-generated method stub
+		System.out.println("—›µÁ ”æÁ");
+	}
+
+
+	@Override
+	public void actorMoive() {
+		// TODO Auto-generated method stub
+		System.out.println("—›µÁ”∞");
+	}
+
+
+	@Override
+	public void singSong() {
+		// TODO Auto-generated method stub
+		System.out.println("≥™∏Ë");
+	}
+	public static void main(String[] args) {
+		Artist a1 = new Artist("—Ó—Û");
+		a1.actorMoive();
+		a1.actorTV();
+		a1.singSong();
+		
+	}
+}

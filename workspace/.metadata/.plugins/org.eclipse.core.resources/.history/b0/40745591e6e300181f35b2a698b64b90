@@ -1,0 +1,13 @@
+package com.test.five;
+/**
+ * 多态测试一下子
+ * @author pjx
+ *
+ */
+public class Poly {
+
+}
+
+class Animal{
+	
+}

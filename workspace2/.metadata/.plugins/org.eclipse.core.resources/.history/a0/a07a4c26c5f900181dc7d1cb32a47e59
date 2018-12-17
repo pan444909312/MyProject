@@ -1,0 +1,14 @@
+package com.five;
+
+public class Ability {
+
+}
+interface Moive{
+	
+}
+interface Sing{
+	
+}
+interface TVPlay{
+	
+}
